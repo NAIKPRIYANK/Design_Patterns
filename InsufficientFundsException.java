@@ -1,6 +1,6 @@
 package bankaccountapplication;
 
-import javax.naming.InsufficientResourcesException;
+
 
 public class InsufficientFundsException extends InsufficientResourcesException {
 
